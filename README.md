@@ -70,7 +70,7 @@ With experience in full-stack development, machine learning, and cloud deploymen
 
 ## 📫 Connect With Me
 📧 Email: **deshmukhvaishnavi863@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/vaishnavi-deshmukh](linkedin.com/in/vaishnavi-deshmukh-004927282)  
+🔗 LinkedIn: [linkedin.com/in/vaishnavi-deshmukh](https://www.linkedin.com/in/vaishnavi-deshmukh-004927282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 👩‍💻 GitHub: [github.com/deshmukhVaishnavi001](https://github.com/deshmukhVaishnavi001)
 
 ---
